@@ -36,15 +36,15 @@
 						<div class="col-sm-4">
 							<h5>Leave A Message</h5>
 							<div class="form-wrapper clearfix">
-								<form class="form-contact email-form" method="post" action="{{route('contact')}}">
+								<form  method="POST" action="{{route('contacts.store')}}">
 								@csrf
 									<div class="inputs-wrapper">
 										<input class="form-name validate-required" type="text" placeholder="Your Name" name="name">
 										<input class="form-email validate-required validate-email" type="text" placeholder="Your Email Address" name="email">
-										<textarea class="form-message validate-required" name="message" placeholder="Your Message" id="message"></textarea>
+										<textarea class="form-message validate-required" name="message" placeholder="Your Message"></textarea>
 									</div>
 
-									<button  type="submit" class="send-form" >Send Form</button>
+									<button  type="submit" class="btn btn-primary" >Send Form</button>
 									<div class="form-success">
 										<span class="text-white">Message sent - Thanks for your enquiry</span>
 									</div>
