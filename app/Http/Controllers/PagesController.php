@@ -26,5 +26,10 @@ class PagesController extends Controller
 
         return view('gallery');
     }
+
+    public function test(){
+
+        return view('test');
+    }
 }
 

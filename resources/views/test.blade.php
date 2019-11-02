@@ -36,9 +36,8 @@
 						<div class="col-sm-4">
 							<h5>Leave A Message</h5>
 							<div class="form-wrapper clearfix">
-								<form  method="POST" action="{{route('contacts.store')}}">
-								
-								<div class="form-group">
+                            <form method="post" action="{{ route('contacts.store') }}">
+          <div class="form-group">
               @csrf
               <label for="name">Name:</label>
               <input type="text" class="form-control" name="name"/>
@@ -52,7 +51,7 @@
               <textarea name="message" placeholder="Your Message"></textarea>
           </div>
           <button type="submit" class="btn btn-primary">Send Message</button>
-								</form>
+      </form>
 							</div>
 						</div>
 					</div>
