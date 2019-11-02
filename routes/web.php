@@ -11,22 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
-Route::get('/index', function () {
-    return view('index');
-});
 
-Route::get('/contact', function () {
-    return view('contact');
-});
+Route::get('/', 'PagesController@index')->name('/');
+Route::get('contact', 'PostController@index')->name('contact');
+Route::get('about', 'PagesController@about')->name('about');
+Route::get('gallery', 'PagesController@gallery')->name('gallery');
 
-Route::get('/about', function () {
-    return view('about');
-});
-
-Route::get('/gallery', function () {
-    return view('gallery');
-});
