@@ -14,7 +14,7 @@
 
 
 Route::get('/', 'PagesController@index')->name('/');
-Route::get('contact', 'PostController@index')->name('contact');
+Route::get('contact', 'PagesController@contact')->name('contact');
 Route::get('about', 'PagesController@about')->name('about');
 Route::get('gallery', 'PagesController@gallery')->name('gallery');
 
