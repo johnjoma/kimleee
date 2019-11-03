@@ -22,9 +22,9 @@
 						<div class="row">
 							<ul class="filters">
 								<li data-filter="*" class="active"><span>All</span></li>
-								<li data-filter=".branding"><span>House</span></li>
-								<li data-filter=".development"><span>Skyscraper</span></li>
-								<li data-filter=".print"><span>Interior</span></li>
+								<li data-filter=".branding"><span>Blogs</span></li>
+								<li data-filter=".development"><span>Corporate</span></li>
+								<li data-filter=".print"><span>Services</span></li>
 							</ul>
 						</div>
 					</div>
@@ -34,7 +34,7 @@
 					
 							<div class="col-md-4 col-sm-6 project development image-holder">
 								<div class="background-image-holder">
-									<img class="background-image" alt="Background Image" src="img/project1.jpg">
+									<img class="background-image" alt="Background Image" src="img/soon2.png">
 								</div>
 								<div class="hover-state">
 									<div class="align-vertical">
@@ -46,7 +46,7 @@
 							<!--Added-->
 							<div class="col-md-4 col-sm-6 project development image-holder">
 								<div class="background-image-holder">
-									<img class="background-image" alt="Background Image" src="img/project1.jpg">
+									<img class="background-image" alt="Background Image" src="img/soon2.png">
 								</div>
 								<div class="hover-state">
 									<div class="align-vertical">
@@ -58,7 +58,7 @@
 
 							<div class="col-md-4 col-sm-6 project branding image-holder">
 								<div class="background-image-holder">
-									<img class="background-image" alt="Background Image" src="img/project2.jpg">
+									<img class="background-image" alt="Background Image" src="img/soon2.png">
 								</div>
 								<div class="hover-state">
 									<div class="align-vertical">
@@ -70,7 +70,7 @@
 
 							<div class="col-md-4 col-sm-6 project print image-holder">
 								<div class="background-image-holder">
-									<img class="background-image" alt="Background Image" src="img/project3.jpg">
+									<img class="background-image" alt="Background Image" src="img/soon2.png">
 								</div>
 								<div class="hover-state">
 									<div class="align-vertical">
@@ -84,7 +84,7 @@
 							
 							<div class="col-md-4 col-sm-6 project branding image-holder">
 								<div class="background-image-holder">
-									<img class="background-image" alt="Background Image" src="img/project2.jpg">
+									<img class="background-image" alt="Background Image" src="img/soon2.png">
 								</div>
 								<div class="hover-state">
 									<div class="align-vertical">
@@ -96,7 +96,7 @@
 							
 							<div class="col-md-4 col-sm-6 project print image-holder">
 								<div class="background-image-holder">
-									<img class="background-image" alt="Background Image" src="img/project3.jpg">
+									<img class="background-image" alt="Background Image" src="img/soon2.png">
 								</div>
 								<div class="hover-state">
 									<div class="align-vertical">
@@ -108,7 +108,7 @@
 							
 							<div class="col-md-4 col-sm-6 project print image-holder">
 								<div class="background-image-holder">
-									<img class="background-image" alt="Background Image" src="img/project4.jpg">
+									<img class="background-image" alt="Background Image" src="img/soon2.png">
 								</div>
 								<div class="hover-state">
 									<div class="align-vertical">
@@ -120,7 +120,7 @@
 							
 							<div class="col-md-4 col-sm-6 project branding image-holder">
 								<div class="background-image-holder">
-									<img class="background-image" alt="Background Image" src="img/project5.jpg">
+									<img class="background-image" alt="Background Image" src="img/soon2.png">
 								</div>
 								<div class="hover-state">
 									<div class="align-vertical">
@@ -132,7 +132,7 @@
 							
 							<div class="col-md-4 col-sm-6 project development image-holder">
 								<div class="background-image-holder">
-									<img class="background-image" alt="Background Image" src="img/project6.jpg">
+									<img class="background-image" alt="Background Image" src="img/soon2.png">
 								</div>
 								<div class="hover-state">
 									<div class="align-vertical">

@@ -16,7 +16,7 @@
 						<div class="container align-vertical">
 							<div class="row">
 								<div class="col-md-6 col-sm-9">
-									<h1 class="text-white">Lorem ipsum dolor sit amet consectquis nostrud exercitation ullamco laboris nisi ut aliquip.</h1>
+									<h1 class="text-white">Creating value through true convergence.</h1>
 									<a target="_blank" href="#" class="btn btn-primary btn-white">LEARN MORE</a>
 									
 								</div>
@@ -193,11 +193,11 @@ php artisan serve
 						
 						<div class="col-md-4 col-sm-6 no-pad project print image-holder">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Background Image" src="img/interior_1.jpg">
+								<img class="background-image" alt="Background Image" src="img/soon.jpg">
 							</div>
 							<div class="hover-state">
 								<div class="align-vertical">
-									<h3 class="text-white"><strong>Kitchen</strong> Design</h3>
+									<h3 class="text-white"><strong>Personal</strong> Blog</h3>
 									<p class="text-white">
 										Excepteur sint occaecat cupidatat non <br>proident sunt in culpa.
 									</p>
@@ -208,11 +208,11 @@ php artisan serve
 						
 						<div class="col-md-4 col-sm-6 no-pad project branding image-holder">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Background Image" src="img/interior_2.jpg">
+								<img class="background-image" alt="Background Image" src="img/soon.jpg">
 							</div>
 							<div class="hover-state">
 								<div class="align-vertical">
-									<h3 class="text-white"><strong>Living Room</strong> Design</h3>
+									<h3 class="text-white"><strong>Corporate Website</strong> Design</h3>
 									<p class="text-white">
 										Excepteur sint occaecat cupidatat non <br>proident sunt in culpa.
 									</p>
@@ -223,11 +223,11 @@ php artisan serve
 						
 						<div class="col-md-4 col-sm-6 no-pad project print image-holder">
 							<div class="background-image-holder">
-								<img class="background-image" alt="Background Image" src="img/interior_3.jpg">
+								<img class="background-image" alt="Background Image" src="img/soon.jpg">
 							</div>
 							<div class="hover-state">
 								<div class="align-vertical">
-									<h3 class="text-white"><strong>Bathroom</strong> Design</h3>
+									<h3 class="text-white"><strong>Services Website </strong> Design</h3>
 									<p class="text-white">
 										Excepteur sint occaecat cupidatat non <br>proident sunt in culpa.
 									</p>

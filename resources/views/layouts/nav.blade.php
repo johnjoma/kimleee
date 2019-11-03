@@ -12,8 +12,9 @@
 						<div class="col-md-9 col-sm-9 columns text-right">
 							<ul class="menu">
 								<a></a><li><a href="{{route('/')}}" target="_self">Home</a></li>
+								
+							    <li><a href="{{route('gallery')}}" target="_self">Portfolio</a></li>
 								<li><a href="{{route('about')}}" target="_self">About us</a></li>
-								<li><a href="{{route('gallery')}}" target="_self">Portfolio</a></li>
 								<li><a href="{{route('contact')}}" target="_self">Contact</a></li>
 								
 								
