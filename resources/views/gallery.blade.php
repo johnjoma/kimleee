@@ -9,9 +9,9 @@
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
 							<h1>Check out some of our<br>latest and greatest projects</h1>
-							<p class="lead">
+							<!--<p class="lead">
 								Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta. 
-							</p>
+							</p>-->
 						</div>
 					</div>
 					
@@ -23,8 +23,8 @@
 							<ul class="filters">
 								<li data-filter="*" class="active"><span>All</span></li>
 								<li data-filter=".branding"><span>Blogs</span></li>
-								<li data-filter=".development"><span>Corporate</span></li>
-								<li data-filter=".print"><span>Services</span></li>
+								<li data-filter=".development"><span>Service & Corporate</span></li>
+								<li data-filter=".print"><span>Ecommerce</span></li>
 							</ul>
 						</div>
 					</div>

@@ -21,27 +21,27 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 text-center">
-							<h1>About Our Team</h1>
+							<h1>About</h1>
 						</div>
 					</div>
 					
 					<div class="row space-bottom-large">
 						<div class="col-sm-4">
 							<div class="team-1-member">
-								<img alt="Team Member" src="img/team_1.png ">
+								<!--<img alt="Team Member" src="img/team_1.png ">
 								<h2>Sarah May</h2>
 								<h5>CEO</h5>
 								<p class="space-top-small">
 									Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-								</p>
+								</p>-->
 							</div>
 						</div>
 						
 						<div class="col-sm-4">
 							<div class="team-1-member">
 								<img alt="Team Member" src="img/team_2.png ">
-								<h2>Thomas Brown</h2>
-								<h5>Creative Director</h5>
+								<h2><strong>John Kimani</strong></h2>
+								<h5>Developer</h5>
 								<p class="space-top-small">
 									Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 								</p>
@@ -50,12 +50,12 @@
 						
 						<div class="col-sm-4">
 							<div class="team-1-member">
-								<img alt="Team Member" src="img/team_3.png ">
+								<!--<img alt="Team Member" src="img/team_3.png ">
 								<h2>Howard Branson</h2>
 								<h5>PR Specialist</h5>
 								<p class="space-top-small">
 									Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-								</p>
+								</p>-->
 							</div>
 						</div>
 						

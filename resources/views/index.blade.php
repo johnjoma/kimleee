@@ -61,15 +61,17 @@
 			<section class="feature-selector">
 				<div class="container">
 					<div class="row">
+						
 						<ul class="selector-tabs clearfix">
 							<li class="clearfix text-primary col-md-3 col-sm-6 active">
 									<i class="icon icon-target"></i>
-									<span>Targeted Branding</span>
+									
+									<span>Target</span>
 							</li>
 						
 							<li class="clearfix text-primary col-md-3 col-sm-6">
 									<i class="icon icon-map-pin"></i>
-									<span>Geolocating Features</span>
+									<span>Let people find you</span>
 							</li>
 						
 							<li class="clearfix text-primary col-md-3 col-sm-6">
@@ -90,7 +92,7 @@
 						<li class="clearfix active">
 							<div class="row">
 								<div class="col-sm-12 text-center">
-									<h1> During bond DOE last name von VFAUGHAN unless they put it on </h1>
+									<h1> Web design</h1>
 								</div>
 							</div>
 							
@@ -137,7 +139,7 @@
 						<li class="clearfix">
 							<div class="row">
 								<div class="col-sm-12 text-center">
-									<h1>DO NOT spell out amounts. Right: $195 Wrong: a hundred and 95 dollars</h1>
+									<h1>Many appealing ways to present information</h1>
 								</div>
 							</div>
 							

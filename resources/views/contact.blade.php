@@ -16,21 +16,23 @@
 					
 					<div class="row">
 						<div class="col-sm-4">
-							<h5>Enquiries</h5>
-							<ul>
+							<h5>Enquiries About</h5>
+							<ul style="list-style-type:disc;">
 							<li>Web Design</li>
-							<li>Blog Development</li>
+							<li>Blogs</li>
 							<li>Corporate website</li>
 							<li>Personal webisite</li>
 							<li>Ecommerce website</li>
-							</ul>
+                            </ul>
 						</div>
 						
 						<div class="col-sm-4 text-center">
 							<h5>Details</h5>
 							<!--<p class="lead">Kiewit Building 
 		<br>200 Avenue Street ,&nbsp;Chicago<br><br>+70 424 495 952 -->
-		<br>kimtech@websitedevelopment.com<br></p>
+		<p class="lead">Phone number: 
+		<br>+254705559177
+		<br>johnturinjoma@gmail.com<br></p>
 						</div>
 						
 						<div class="col-sm-4">
@@ -70,6 +72,8 @@
           </div>
           <button type="submit" class="btn btn-primary">Send Message</button>
 								</form>
+
+								
 							</div>
 						</div>
 					</div>
