@@ -6,7 +6,7 @@
 					<div class="row nav-menu">
 						<div class="col-md-3 col-sm-3 columns">
 							<a href="{{route('/')}}">
-							<img class="logo logo-dark" alt="Logo" src="img/logo-dark.png">
+							<img class="logoz" alt="Logo" src="img/logo_transparent.png">
 						</div>
 					
 						<div class="col-md-9 col-sm-9 columns text-right">

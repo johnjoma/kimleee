@@ -1,72 +1,16 @@
 @extends('layouts.app')
-@section('main-content')
 
-<div class="main-container">
-		<a id="hero-slider" class="in-page-link"></a>
-			
-			<section class="hero-slider">
-				<ul class="slides">
-					
-					
-					<li class="overlay">
-						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" src="img/image_slider1.jpg">
-						</div>
-						
-						<div class="container align-vertical">
-							<div class="row">
-								<div class="col-md-6 col-sm-9">
-									<h1 class="text-white">Creating value through true convergence.</h1>
-									<a target="_blank" href="#" class="btn btn-primary btn-white">LEARN MORE</a>
-									
-								</div>
-							</div>
-						</div>
-					</li>
-					
-					<li class="overlay">
-						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" src="img/image_slider2.jpg">
-						</div>
-						
-						<div class="container align-vertical">
-							<div class="row">
-								<div class="col-md-6 col-sm-9">
-									<h1 class="text-white">Voluptatem accusantium doloremque laudantium totam rem aperiam eaque ipsa quae.</h1>
-									<a target="_blank" href="#" class="btn btn-primary btn-white">Learn more</a>
-									
-								</div>
-							</div>
-						</div>
-					</li>
-					
-					<li class="overlay">
-						<div class="background-image-holder parallax-background">
-							<img class="background-image" alt="Background Image" src="img/image_slider3.jpg">
-						</div>
-						
-						<div class="container align-vertical">
-							<div class="row">
-								<div class="col-md-6 col-sm-9">
-									<h1 class="text-white">Tempora incidunt ut labore dolore magnam aliquam voluptatem minima.</h1>
-									<a target="_blank" href="#" class="btn btn-primary btn-white">Learn more</a>
-									
-								</div>
-							</div>
-						</div>
-					</li>
-				</ul>
-			</section>
-			
-			<section class="feature-selector">
+@section('main-content')
+@include('layouts.slider')
+<section class="feature-selector">
 				<div class="container">
 					<div class="row">
 						
 						<ul class="selector-tabs clearfix">
 							<li class="clearfix text-primary col-md-3 col-sm-6 active">
-									<i class="icon icon-target"></i>
+									<!--<i class="icon icon-target"></i>
 									
-									<span>Target</span>
+									<span>Target</span>-->
 							</li>
 						
 							<li class="clearfix text-primary col-md-3 col-sm-6">
@@ -75,13 +19,13 @@
 							</li>
 						
 							<li class="clearfix text-primary col-md-3 col-sm-6">
-									<i class="icon icon-strategy"></i>
-									<span>Marketing Strategy</span>
+									<i class="icon icon-document"></i>
+									<span>Clean Websites</span>
 							</li>
 						
 							<li class="clearfix text-primary col-md-3 col-sm-6">
-									<i class="icon icon-anchor"></i>
-									<span>On Page Navigation</span>
+									<!--<i class="icon icon-anchor"></i>
+									<span>On Page Navigation</span>-->
 							</li>
 						</ul>
 					</div>
@@ -91,7 +35,7 @@
 					<ul class="selector-content">
 						<li class="clearfix active">
 							<div class="row">
-								<div class="col-sm-12 text-center">
+								<!--<div class="col-sm-12 text-center">
 									<h1> Web design</h1>
 								</div>
 							</div>
@@ -108,7 +52,7 @@
 									full payment is due now the cruise line requires full payment you have price guarantee there's no certificate use on this one so it'd be 975 per cabin for two people
 									</p>	
 								</div>
-							</div>
+							</div>-->
 						</li>
 						
 						<li class="clearfix">
@@ -139,7 +83,7 @@
 						<li class="clearfix">
 							<div class="row">
 								<div class="col-sm-12 text-center">
-									<h1>Many appealing ways to present information</h1>
+									<h1>Appealing ways to present information</h1>
 								</div>
 							</div>
 							
@@ -160,7 +104,7 @@
 						
 						<li class="clearfix">
 							<div class="row">
-								<div class="col-sm-12 text-center">
+								<!--<div class="col-sm-12 text-center">
 									<h1>Numerous appealing ways to present information</h1>
 								</div>
 							</div>
@@ -179,7 +123,7 @@ php artisan serve
 										Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.
 									</p>	
 								</div>
-							</div>
+							</div>-->
 						</li>
 						
 		

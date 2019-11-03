@@ -7,7 +7,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-4">
-							<img alt="logo" class="logo" src="img/logo-dark.png">
+							<img alt="logo" class="logoz" src="img/logo_transparent.png">
 							<p>
 								Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 							</p>
