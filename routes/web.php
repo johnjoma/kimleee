@@ -17,6 +17,8 @@ Route::get('/', 'PagesController@index')->name('/');
 Route::get('contact', 'PagesController@contact')->name('contact');
 Route::get('about', 'PagesController@about')->name('about');
 Route::get('gallery', 'PagesController@gallery')->name('gallery');
+Route::get('hireme', 'PagesController@hireme')->name('hireme');
 Route::get('test', 'PagesController@test')->name('test');
 Route::resource('contacts', 'ContactController');
+Route::resource('hires','HireController');
 

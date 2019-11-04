@@ -4,9 +4,10 @@
 				
 				
 					<div class="row nav-menu">
-						<div class="col-md-3 col-sm-3 columns">
+						<div class="col-md-3 col-sm-3 columns ">
 							<a href="{{route('/')}}">
-							<img class="logoz" alt="Logo" src="img/logo_transparent2.png">
+							<img class="logo logo-dark" alt="Logo" src="img/logoz4.png">
+							
 						</div>
 					
 						<div class="col-md-9 col-sm-9 columns text-right">

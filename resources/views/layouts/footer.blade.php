@@ -8,9 +8,14 @@
 					<div class="row">
 						<div class="col-sm-4">
 							<img alt="logo" class="logoz" src="img/logo_transparent2.png">
-							<p>
-								Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-							</p>
+							<h5>Our Services</h5>
+							<ul style="list-style-type:disc;">
+							<li>Web Design</li>
+							<li>Blogs</li>
+							<li>Corporate website</li>
+							<li>Personal webisite</li>
+							<li>Ecommerce website</li>
+                            </ul>
 						</div>
 						
 						<div class="col-sm-4">
@@ -58,7 +63,7 @@
 					
 					<div class="row">
 						<div class="col-sm-12">
-							<span class="sub">© Copright 2014 Real Estate - All Rights Reserved. Free Website Template Designed by <a href=http://www.themezy.com>Themezy</a>.</span>
+							<span class="sub">© Copright 2019:johnjoma Technologies. <a href=http://www.themezy.com>johnjomatechnologies</a>.</span>
 						</div>
 					</div>
 					

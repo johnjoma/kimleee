@@ -15,12 +15,12 @@
 						
 							<li class="clearfix text-primary col-md-3 col-sm-6 active">
 									<i class="icon icon-map-pin"></i>
-									<span>Let people find you</span>
+									<span>Let people find you Online</span>
 							</li>
 						
 							<li class="clearfix text-primary col-md-3 col-sm-6">
 									<i class="icon icon-document"></i>
-									<span>Clean Websites</span>
+									<span>Clean & Appealing website</span>
 							</li>
 						
 							<li class="clearfix text-primary col-md-3 col-sm-6">
@@ -58,23 +58,26 @@
 						<li class="clearfix active">
 							<div class="row">
 								<div class="col-sm-12 text-center">
-									<h1>Many appealing ways to present information</h1>
+									<h1>Your presence Online is our pride</h1>
 								</div>
 							</div>
 							
 							<div class="row">
 								<div class="col-sm-6">
 									<p class="lead">
-									Okay, so there are no balconies available. This is on the Royal Caribbean majesty of the seas. 
-									And we're doing a seven day trip to Costa Maya beliefs in Cozumel. The Ocean View rain one is going to come in least expensive as doing an ocean view guarantee. 
-									Going to come in at 359 per person. Having total with tax and everything on this one would come in at 975. 
-									We do guarantee that to be lowest price out there to me go ahead and grab that for you so
-									</p>	
+									Having a website itself can be used to accomplish numerous <strong>marketing strategies</strong> to help your business grow.
+									<strong>Increasing visibility</strong> is one major factor that makes having a website important. Websites usually provide a 
+									map and directions to company's shops or offices, and also showcasing services one offers.
+									Websites are also available 24/7 365 days. Because of this, your customers and potential customers can visit
+									 your site for support or information about new products and services whenever it is convient for them.
+                                    </p>	
 								</div>
 							
 								<div class="col-sm-6">
 									<p class="lead">
-									um, it came up as as just as a regular account, it didn't even have any additional promotion so you have the best price guarantee with this account.
+									A website is also important because it helps you establish <strong>credibility</strong> as a business.
+                                    People tend to trust a business after they have done business with it. Using your website,
+                                    you can continuously serve consumers online and increase your credibility as a business owner.
 									</p>	
 								</div>
 							</div>
@@ -90,13 +93,15 @@
 							<div class="row">
 								<div class="col-sm-6">
 									<p class="lead">
-									That sounds like a row. I have a prepaid. I have a prepaid to selling death certificate. You purchase. You don't even see it. No, this is what I get. So when I post The vacation villages thing this came with it.
+									This inludes: Mobile friendly site, effective navigation,valid mark-up & clean code,
+                                     constrasting colour scheme and usable forms.
+
 									</p>	
 								</div>
 							
 								<div class="col-sm-6">
 									<p class="lead">
-									Okay, let me see what that is. And it will get this take care of I'm so sorry this is happening just one moment. Okay, so you're with the village voyages and I 
+									Good website usability is about making it easy for visitors to find the information they need quickly and easily.
 									</p>	
 								</div>
 							</div>
@@ -188,6 +193,6 @@ php artisan serve
 				
 			</section>
 		</div>
-
+         <hr>
 
 @endsection

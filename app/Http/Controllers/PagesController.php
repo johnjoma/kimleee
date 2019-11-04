@@ -31,5 +31,9 @@ class PagesController extends Controller
 
         return view('test');
     }
+    public function hireme(){
+
+        return view('hireme');
+    }
 }
 

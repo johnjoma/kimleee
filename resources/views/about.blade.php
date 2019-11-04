@@ -1,20 +1,6 @@
 
-<!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> 
-<html class="no-js"> <!--<![endif]-->
-    @include('layouts.head')
-    <body>
-    	<div class="loader">
-    		<div class="spinner">
-			  <div class="double-bounce1"></div>
-			  <div class="double-bounce2"></div>
-			</div>
-    	</div>
-				
-		@include('layouts.nav')
+@extends('layouts.app')
+@section('main-content')
 		
 		<div class="main-container">
 		<section class="team-1">
@@ -43,7 +29,8 @@
 								<h2><strong>John Kimani</strong></h2>
 								<h5>Developer</h5>
 								<p class="space-top-small">
-									Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+								Graduate with Bsc.IT degree, specializing in software development and putting efforts on networking too.
+Able to balance multiple competing priorities, having self-taught various coding languages. i.e java, PHP & Python. 
 								</p>
 							</div>
 						</div>
@@ -74,9 +61,10 @@
 							<div class="col-md-4 col-sm-6 clearfix">
 								<div class="feature feature-icon-small">
 									<i class="icon icon-document"></i>
-									<h6 class="text-white"> Nemo enim ipsam voluptatem</h6>
+									<h6 class="text-white"> Clean & Appealing website</h6>
 									<p class="text-white">
-										Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor.
+									This inludes: Mobile friendly site, effective navigation,valid mark-up & clean code,
+                                     constrasting colour scheme and usable forms.
 									</p>
 								</div>
 							</div>
@@ -84,9 +72,9 @@
 							<div class="col-md-4 col-sm-6 clearfix">
 								<div class="feature feature-icon-small">
 									<i class="icon icon-linegraph"></i>
-									<h6 class="text-white">Neque porro quisquam</h6>
+									<h6 class="text-white">Increasing your Online Presence</h6>
 									<p class="text-white">
-										Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor.
+									<strong>Increasing visibility</strong> is one major factor that makes having a website important. 
 									</p>
 								</div>
 							</div>
@@ -94,9 +82,9 @@
 							<div class="col-md-4 col-sm-6 clearfix">
 								<div class="feature feature-icon-small">
 									<i class="icon icon-target"></i>
-									<h6 class="text-white">Excepteur occaecat cupidatat</h6>
+									<h6 class="text-white">Reaching your online goals</h6>
 									<p class="text-white">
-										Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labor.
+									A website is also important because it helps you establish <strong>credibility</strong> as a business.
 									</p>
 								</div>
 							</div>
@@ -107,22 +95,5 @@
 			</section>
 		</div>
 		
-		@include('layouts.footer')
-				
-		<script src="https://www.youtube.com/iframe_api"></script>
-		<script src="js/jquery.min.js"></script>
-        <script src="js/jquery.plugin.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery.flexslider-min.js"></script>
-        <script src="js/smooth-scroll.min.js"></script>
-        <script src="js/skrollr.min.js"></script>
-        <script src="js/spectragram.min.js"></script>
-        <script src="js/scrollReveal.min.js"></script>
-        <script src="js/isotope.min.js"></script>
-        <script src="js/twitterFetcher_v10_min.js"></script>
-        <script src="js/lightbox.min.js"></script>
-        <script src="js/jquery.countdown.min.js"></script>
-        <script src="js/scripts.js"></script>
-    </body>
-</html>
+		@endsection
 				
