@@ -16,6 +16,7 @@
 								
 							    <li><a href="{{route('gallery')}}" target="_self">Portfolio</a></li>
 								<li><a href="{{route('about')}}" target="_self">About</a></li>
+								<li><a href="{{route('hireme')}}" target="_self">Hire US</a></li>
 								<li><a href="{{route('contact')}}" target="_self">Contact</a></li>
 								
 								
