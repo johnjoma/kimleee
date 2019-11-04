@@ -25,7 +25,7 @@
 						
 						<div class="col-sm-4">
 							<div class="team-1-member">
-								<img alt="Team Member" src="img/team_2.png ">
+								<img alt="Team Member" src="img/team2.png" height="150px">
 								<h2><strong>John Kimani</strong></h2>
 								<h5>Developer</h5>
 								<p class="space-top-small">
