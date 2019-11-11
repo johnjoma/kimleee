@@ -66,10 +66,7 @@
 								<div class="col-sm-6">
 									<p class="lead">
 									Having a website itself can be used to accomplish numerous <strong>marketing strategies</strong> to help your business grow.
-									<strong>Increasing visibility</strong> is one major factor that makes having a website important. Websites usually provide a 
-									map and directions to company's shops or offices, and also showcasing services one offers.
-									Websites are also available 24/7 365 days. Because of this, your customers and potential customers can visit
-									 your site for support or information about new products and services whenever it is convient for them.
+									<strong>Increasing visibility</strong> is one major factor that makes having a website important. 
                                     </p>	
 								</div>
 							

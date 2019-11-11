@@ -46,6 +46,7 @@ input[type=text], select, textarea {
   resize: vertical;
 }
 
+
 label {
   padding: 12px 12px 12px 0;
   display: inline-block;
@@ -104,6 +105,8 @@ input[type=submit]:hover {
   clear: both;
 }
 
+
+
 /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .col-25, .col-75{
@@ -144,6 +147,8 @@ input[type=submit]:hover {
       <input type="text" name="name" placeholder="Your name or company name">
     </div>
   </div>
+
+ 
   <div class="row">
     <div class="col-25">
       <label for="lname">Email:</label>
@@ -152,6 +157,11 @@ input[type=submit]:hover {
       <input type="text" name="email" placeholder="Your email or company email">
     </div>
   </div>
+
+<!-- try-->
+
+<!-- endtry -->
+
   <div class="row">
     <div class="col-25">
       <label for="type">Type of Website:</label>
@@ -177,11 +187,13 @@ input[type=submit]:hover {
   </div>
   <div class="row">
   <div class="col-25">
-      <label for="subject">Upload Important documents</label>
+      <label for="subject">Upload Important Attachment:</label>
     </div>
     <div class="col-75">
     <div class="custom-file">
     <input type="file" class="custom-file-input" name="document">
+<br>
+    <span style="color:Red">Upload only one Attachment.</span>
   </div>
     </div>
   </div>
@@ -203,6 +215,6 @@ input[type=submit]:hover {
 			
         </div>
         <hr>
-		
+       
 		@endsection
-				
+    

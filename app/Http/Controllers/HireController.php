@@ -37,7 +37,7 @@ class HireController extends Controller
     {
         $validatedData = $request->validate([
             'name' => 'required|max:255',
-            'email' => 'required',
+            'email' => 'required|email',
             'type' => 'required',
             'subject'=>'required',
             'document'=>'nullable',
